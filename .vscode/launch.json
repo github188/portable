@@ -50,7 +50,7 @@
             "name": "Debug @ Windows",
             "type": "cppdbg",
             "request": "launch",
-            "program": "D:\\work\\AliOS-Things\\out\\helloworld@starterkit\\binary\\helloworld@starterkit.elf",
+            "program": "C:/Users/iDea/Documents/Github/portable/out/helloworld@starterkit/binary/helloworld@starterkit.elf",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceRoot}",
